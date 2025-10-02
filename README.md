@@ -45,10 +45,9 @@ Follow these steps to get the solver running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/mortorit/SudokuSolver.git
+    cd SudokuSolver
     ```
-    *(Replace `your-username/your-repo-name` with your actual repository path)*
 
 2.  **Install the required package (NumPy):**
     ```bash
@@ -61,9 +60,8 @@ Follow these steps to get the solver running on your local machine.
 
 1.  **Run the script from your terminal:**
     ```bash
-    python your_script_name.py
+    python graphical_sudoku.py
     ```
-    *(Replace `your_script_name.py` with the actual name of your Python file)*
 
 2.  **Enter the puzzle:** Type the known numbers into the grid cells.
 
